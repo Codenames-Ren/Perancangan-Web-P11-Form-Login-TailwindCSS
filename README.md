@@ -2,4 +2,4 @@
 
 Repo Pertemuan 11 - Perancangan Web 1124160034
 
-Pembuatan Halaman Login Page dengan dark mode xD
+Pembuatan Halaman Login Page dengan dark mode
